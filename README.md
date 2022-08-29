@@ -1,11 +1,11 @@
 # xcc-warehouse
 
-#### Description
+#### 介绍
 this is xcc code warehouse
-Common basic technical integration exercises are only used for learning.
-Technology:
+常用技术基础整合练习，仅作为学习使用。
+技术：
 	redis、elasticsearch、mongodb、excel
 
-#### contributor
+#### 贡献者
 xiechuang
 
